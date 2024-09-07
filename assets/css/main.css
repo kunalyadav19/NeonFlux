@@ -782,13 +782,12 @@ section,
 
 .hero h2 {
   margin: 0;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 45px;
+  font-weight: 500;
   color: var(--heading-color);
   
 
     font-family: "Silkscreen", sans-serif;
-    font-weight: 400;
     font-style: normal;
  
 }
@@ -796,6 +795,7 @@ section,
 .hero p {
   margin: 10px 0 0 0;
   font-size: 20px;
+  font-weight: bold;
   color: var(--heading-color);
 }
 
